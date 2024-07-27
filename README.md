@@ -11,7 +11,7 @@
 - Scalable Authorization Module **“Optimize Database Queries From O(n)to O(1)”**.
 - **Handle Large Dashboard Data Reports and Excel Sheet Import/Export**.
 
-## ⚙️Codes
+## ⚙️Samples
 
 - Videos:
   - [Magical Structure for NestJS](https://youtu.be/UfOL4bM6BFA?si=JZaDbGHRzoQzMNa2)

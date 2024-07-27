@@ -4,6 +4,10 @@
 - Intensive Knowledge of Back-End and Responsive Web Design Technologies.
 - Backend Initializer for **(Fintech - Ride Hailing - Ecommerce - Multi SMS Providers)** Apps.
 - Leads a Small Sized Developer’s Team, Participates in **Business, and Technical Hiring Interviews**.
+- Decision maker developer with multiple Tech Stacks:
+  - PHP/Laravel/Livewire
+  - NodeJS / NestJS / TypeScript
+  - NuxtJS / NitroJS / VueJS
 
 ## 🏅 Achievements
 - Dynamic Core Module SQL Relations **“Raise Scalability and Extensibility to above 10x”**.

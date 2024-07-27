@@ -15,7 +15,7 @@
 ## ⚙️Codes
 
 - Videos:
-  - Magical Structure for NestJS
+  - [Magical Structure for NestJS](https://youtu.be/UfOL4bM6BFA?si=JZaDbGHRzoQzMNa2)
   - How to Build Startup Company
   - Queue Import 10,000 Excel Row
   - Ch Ready-mix Wordpress Design

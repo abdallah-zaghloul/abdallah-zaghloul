@@ -19,7 +19,7 @@
 ## ⚙️ Samples
 
 - Videos:
-  - [Magical Structure for NestJS](https://youtu.be/UfOL4bM6BFA?si=JZaDbGHRzoQzMNa2)
+  - ![Magical Structure for NestJS](https://youtu.be/UfOL4bM6BFA?si=JZaDbGHRzoQzMNa2)
   - [How to Build Startup Company](https://www.youtube.com/watch?v=TxnQK2JMJsk&list=PL5NORh6eJve5IYxzz_2g4IqgIbeYIGsd-)
   - [How to solve MySQL UUID Performance Issues](https://youtu.be/tF-0xpbdnvQ?si=-fbKLBJLt5ohz_3-)
   - [Queue Import 10,000 Excel Row](https://youtu.be/8rP9GRuBH-w?si=y0PmYw_lixSbdTa1)

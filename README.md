@@ -49,9 +49,7 @@
   - [Git](https://drive.google.com/file/d/14_Htb1mJzZbN7jXIknqGsiepZxvrRT5Q/view)
 
 ## 💡 Skills:
-**`PHP`  `Laravel Sail`  `MySQL`  `Design Principles`  `Serverless` 
-`Laravel`  `Livewire`  `PostgreSQL`  `Problem Solving`  `Heroku` 
-`NodeJS`  `Bootstrap`  `MongoDB`  `Design Patterns`   `Laravel Vapor`  
+**`PHP` `Laravel Sail` `MySQL` `Design Principles` `Serverless` `Laravel` `Livewire` `PostgreSQL` `Problem Solving` `Heroku` `NodeJS` `Bootstrap` `MongoDB` `Design Patterns` `Laravel Vapor`  
 `NestJS`   `JQuery`   `Ajax`   `Data Structures`   `Algorithms`  
 `NitroJS`   `NuxtJS`   `Vue`   `Prisma ORM`   `TypeORM`  
 `JavaScript`   `TypeScript`   `WebSocket`   `Git/Github/Bitbucket`   `Git Flow`  

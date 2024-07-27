@@ -4,7 +4,7 @@
 - Intensive Knowledge of Back-End and Responsive Web Design Technologies.
 - Backend Initializer for **(Fintech - Ride Hailing - Ecommerce - Multi SMS Providers)** Apps.
 - Leads a Small Sized Developer’s Team, Participates in **Business, and Technical Hiring Interviews**.
-- Decision maker developer with multiple Tech Stacks:
+- **Decision Maker Developer** with multiple Tech Stacks:
   - **PHP - Laravel - Livewire**
   - **NodeJS - NestJS - TypeScript**
   - **NuxtJS - NitroJS - VueJS**
@@ -49,16 +49,16 @@
   - [Git](https://drive.google.com/file/d/14_Htb1mJzZbN7jXIknqGsiepZxvrRT5Q/view)
 
 ## 💡 Skills
-**`PHP`  `Laravel Sail`  `MySQL`  `Design Principles`  `Serverless` 
-`Laravel`  `Livewire`  `PostgreSQL`  `Problem Solving`  `Heroku` 
-`NodeJS`  `Bootstrap`  `MongoDB`  `Design Patterns`   `Laravel Vapor`  
-`NestJS`   `JQuery`   `Ajax`   `Data Structures`   `Algorithms`  
-`NitroJS`   `NuxtJS`   `Vue`   `Prisma ORM`   `TypeORM`  
-`JavaScript`   `TypeScript`   `WebSocket`   `Git/Github/Bitbucket`   `Git Flow`  
-`Swoole`   `Linux`   `LAMP`   `WordPress` `Design`   `Swagger`  
-`Agile (Scrum)`   `Jira`   `Trello`   `Postman`   `AWS`  
-`Symfony`   `Redis`   `OOP`   `MicroServices`   `Responsive Web Design`  
-`Docker`   `PHPUnit`   `ReactPHP`   `Ratchet`   `Xdebug`  
-`RDS`   `Code Review`   `Doctrine (PHP)`   `SQS`   `GRPC (Pub/Sub)`  
-`Readme.MD`   `Composer`   `NPM`   `Decision Making`   `Composer`  
-`HTML/CSS`   `Team Leadership`   `Problem Solving`   `Analysis`   `Flexibility`**
+**`PHP`  `Laravel Sail`  `MySQL`  `Design Principles`  `Serverless`
+`Laravel`  `Livewire`  `PostgreSQL`  `Problem Solving`  `Heroku`
+`NodeJS`  `Bootstrap`  `MongoDB`  `Design Patterns`  `Laravel Vapor`
+`NestJS`  `JQuery`  `Ajax`  `Data Structures`  `Algorithms`
+`NitroJS`  `NuxtJS`  `Vue`  `Prisma ORM`  `TypeORM`
+`JavaScript`  `TypeScript`  `WebSocket`  `Git/Github/Bitbucket`  `Git Flow`
+`Swoole`  `Linux`  `LAMP`  `WordPress` `Design`  `Swagger`
+`Agile (Scrum)`  `Jira`  `Trello`  `Postman`  `AWS`
+`Symfony`  `Redis`  `OOP`  `MicroServices`  `Responsive Web Design`
+`Docker`  `PHPUnit`  `ReactPHP`  `Ratchet`  `Xdebug`
+`RDS`  `Code Review`  `Doctrine (PHP)`  `SQS`  `GRPC (Pub/Sub)`
+`Readme.MD`  `Composer`  `NPM`  `Decision Making`  `Composer`
+`HTML/CSS`  `Team Leadership`  `Problem Solving`  `Analysis`  `Flexibility`**

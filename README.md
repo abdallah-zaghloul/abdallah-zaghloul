@@ -14,15 +14,15 @@
 
 ## 💼Experience
 -  YouCan Software Developer Full-Time 40 Hrs/Week Jan 2024 - Now
-  - Duties :
-    - Build Embedded YouCan Store Google Sheet App.
-    - Gives Developer Experience about YouCan Libraries.
-    - Prepare App Demos.
-    - Write Technical Documentation.
-    - Handling Git flow version control system.
+   - Duties :
+      - Build Embedded YouCan Store Google Sheet App.
+      - Gives Developer Experience about YouCan Libraries.
+      - Prepare App Demos.
+      - Write Technical Documentation.
+      - Handling Git flow version control system.
     
-  - Projects:
-    - YouCan Google Sheet Embedded App [NuxtJS/NitroJS/Vue]: Initializer - maintainer.
+    - Projects:
+      - YouCan Google Sheet Embedded App [NuxtJS/NitroJS/Vue]: Initializer - maintainer.
 
 - CreditGo Software Developer Full-Time 40 Hrs/Week April 2020 - Dec 2023
   - Duties :
@@ -31,7 +31,7 @@
     - Optimizing database queries.
     - Collaboration with DevOps during the development process.
     - Handling Git flow version control system.
-    
+
   - Projects:
     - Multiple Providers SMS Service [NestJS]: Back End Initializer - maintainer.
     - App Settings Service [NestJS]: Back End Initializer - maintainer.
@@ -45,12 +45,11 @@
   - Duties :
     - Front-End : Responsive Web Design.
     - Back-End : Analysis - DB Schema - Ajax Real time Search - Full Calendar - Firebase.
-    
+
   - Projects:
     - Yaqa [Laravel]: (Order a Tailor).
 
 - ITI Final Graduation Project Team Leader [Laravel] 372 Hrs Dec 2019 - April 2020
-
 - Local Freelancing [Wordpress Design] Jan 2017- Jan 2018
   - Duties :
     - handle projects with simple SDLC implementation

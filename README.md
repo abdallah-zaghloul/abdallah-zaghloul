@@ -1,17 +1,17 @@
-## 📜Summary
+## 📜 Summary
 
 - **+5 Years** Experience Level across Software Development.
 - Intensive Knowledge of Back-End and Responsive Web Design Technologies.
 - Backend Initializer for **(Fintech - Ride Hailing - Ecommerce - Multi SMS Providers)** Apps.
 - Leads a Small Sized Developer’s Team, Participates in **Business, and Technical Hiring Interviews**.
 
-## 🏅Achievements
+## 🏅 Achievements
 - Dynamic Core Module SQL Relations **“Raise Scalability and Extensibility to above 10x”**.
 - Responsible for Company Apps Support Coverage during **Techne Summit**.
 - Scalable Authorization Module **“Optimize Database Queries From O(n)to O(1)”**.
 - **Handle Large Dashboard Data Reports and Excel Sheet Import/Export**.
 
-## ⚙️Samples
+## ⚙️ Samples
 
 - Videos:
   - [Magical Structure for NestJS](https://youtu.be/UfOL4bM6BFA?si=JZaDbGHRzoQzMNa2)
@@ -43,7 +43,7 @@
   - [Linux](https://drive.google.com/file/d/1PgnQldBCjQhMlDVPHxLQJblN0FVH45oF/view)
   - [Git](https://drive.google.com/file/d/14_Htb1mJzZbN7jXIknqGsiepZxvrRT5Q/view)
 
-## 💡Skills:
+## 💡 Skills:
 **<pre>
 PHP - Laravel Sail - MySQL - Design Principles - Serverless
 Laravel - Livewire - PostgreSQL - Problem Solving - Heroku

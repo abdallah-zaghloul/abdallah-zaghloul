@@ -1,4 +1,4 @@
-##📜Summary
+## 📜Summary
 
 ● +5 Years’ Experience Level across Software Development.
 ● Intensive Knowledge of Back-End and Responsive Web Design Technologies.

@@ -1,10 +1,10 @@
 ## 📜Summary
 
-● +5 Years’ Experience Level across Software Development.
-● Intensive Knowledge of Back-End and Responsive Web Design Technologies.
-● Backend Initializer for (Fintech - Ride Hailing - Ecommerce - Multi SMS Providers) Apps.
-● Leads a Small Sized Developer’s Team, Participates in Business, and Technical Hiring Interviews.
-● ITI Certified Open-Source Web Development“Grade A”- Team Leader (Mar 2020).
+- +5 Years’ Experience Level across Software Development.
+- Intensive Knowledge of Back-End and Responsive Web Design Technologies.
+- Backend Initializer for (Fintech - Ride Hailing - Ecommerce - Multi SMS Providers) Apps.
+- Leads a Small Sized Developer’s Team, Participates in Business, and Technical Hiring Interviews.
+- ITI Certified Open-Source Web Development“Grade A”- Team Leader (Mar 2020).
 
 🏅Achievements
 ● Dynamic Core Module SQL Relations “Raise Scalability and Extensibility to above 10x”.

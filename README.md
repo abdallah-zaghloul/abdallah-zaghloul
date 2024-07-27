@@ -23,7 +23,7 @@
     
     - Projects:
       - YouCan Google Sheet Embedded App [NuxtJS/NitroJS/Vue]: Initializer - maintainer.
-
+---
 - CreditGo Software Developer Full-Time 40 Hrs/Week April 2020 - Dec 2023
   - Duties :
     - Designing and developing Software Solutions.
@@ -40,7 +40,7 @@
     - Order AnyThing [Laravel] : (Order & Delivery) Share In Construction.
     - Ventri Demo [Laravel]: (CryptoCurrency) Build a demo for outsourcing.
     - ODRD [NestJS]: Build a ride hailing app using google On-Demand Rides and Deliveries solution.
-
+---
 - Takwen.sa Full-Stack Developer Full-Time 40 Hrs/Week April 2019- Dec 2019
   - Duties :
     - Front-End : Responsive Web Design.
@@ -48,8 +48,9 @@
 
   - Projects:
     - Yaqa [Laravel]: (Order a Tailor).
-
+---
 - ITI Final Graduation Project Team Leader [Laravel] 372 Hrs Dec 2019 - April 2020
+---
 - Local Freelancing [Wordpress Design] Jan 2017- Jan 2018
   - Duties :
     - handle projects with simple SDLC implementation

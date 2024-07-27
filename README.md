@@ -44,6 +44,7 @@
   - [Git](https://drive.google.com/file/d/14_Htb1mJzZbN7jXIknqGsiepZxvrRT5Q/view)
 
 ## 💡Skills:
+<pre>
 PHP - Laravel Sail - MySQL - Design Principles - Serverless
 Laravel - Livewire - PostgreSQL - Problem Solving - Heroku
 NodeJS - Bootstrap - MongoDB - Design Patterns - Laravel Vapor
@@ -57,3 +58,4 @@ Docker - PHPUnit - ReactPHP - Ratchet - Xdebug
 RDS - Code Review - Doctrine (PHP) - SQS - GRPC (Pub/Sub)
 Readme.MD - Composer - NPM - Decision Making - Composer
 HTML/CSS - Team Leadership - Problem Solving - Analysis - Flexibility
+</pre>

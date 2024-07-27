@@ -22,27 +22,27 @@
   - [Ch Ready-mix Wordpress Design](https://drive.google.com/file/d/1VZZhyV-FXZzdlm3CbgvIgiXEljjgfKF_/view)
 
 - Repositories/Packages:
-  - NestJS Book Store
-  - NuxtJS Google Sheet
-  - Livewire Ecommerce Module Demo
-  - Livewire Shopping Cart Demo
-  - 10 Millions Records Search
-  - All Design Patterns Implementation
-  - Laravel Authorization Package
-  - Modular Monolithic Infra-Structure
+  - [NestJS Book Store](https://github.com/abdallah-zaghloul/book-store?tab=readme-ov-file#bookstore-app-using-nestjs)
+  - [NuxtJS Google Sheet](https://github.com/abdallah-zaghloul/nuxt-google-sheet?tab=readme-ov-file#google-sheet-embedded-app-using-nuxt)
+  - [Livewire Ecommerce Module](https://github.com/abdallah-zaghloul/youcan-task#live-demo)
+  - [Livewire Shopping Cart](https://github.com/abdallah-zaghloul/mnjz-task#live-demo)
+  - [10 Millions Records Search](https://github.com/abdallah-zaghloul/4sale-task#4sale-task)
+  - [All Design Patterns Implementation](https://github.com/abdallah-zaghloul/design-patterns)
+  - [Laravel Authorization Package](https://github.com/abdallah-zaghloul/laravel-authorization)
+  - [Modular Monolithic Infra-Structure](https://github.com/abdallah-zaghloul/LBX-task#project-infra-structure)
   
 - Frontend Pages:
-  - AevaPay
-  - Responsive Dashboard
-  - SignUp Screen
+  - [AevaPay](https://www.aevapay.com/)
+  - [Responsive Dashboard](https://abdallah-zaghloul.github.io/pure-css-dashboard/)
+  - [SignUp Screen](https://abdallah-zaghloul.github.io/pure-css-signup/)
 
 - Documentation:
-  - StartUp Apps To MicroServices
-  - Ride Hailing PHP App Revamp
-  - JWT Security
-  - Laravel 7 Juniors Guide
-  - Linux
-  - Git
+  - [StartUp Apps To MicroServices](https://drive.google.com/file/d/1085N9rx1rcuIShbjc52hEYUCw-4FZuhd/view)
+  - [Ride Hailing PHP App Revamp](https://drive.google.com/file/d/1sSaXJfUCdfYC42kJL1KAny0lKTaGcV3a/view)
+  - [JWT Security](https://drive.google.com/file/d/1I8Ql7-6QJd5TBi0-t3l5oUAzFr_Z1sbY/view)
+  - [Laravel 7 Juniors Guide](https://drive.google.com/file/d/12RZOt3NEEDg1Xk2yWAbILKpoIo9UXWsa/view)
+  - [Linux](https://drive.google.com/file/d/1PgnQldBCjQhMlDVPHxLQJblN0FVH45oF/view)
+  - [Git](https://drive.google.com/file/d/14_Htb1mJzZbN7jXIknqGsiepZxvrRT5Q/view)
 
 ## 💡Skills:
 - PHP - Laravel Sail - MySQL - Design Principles - Serverless

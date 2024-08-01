@@ -9,6 +9,8 @@
   - **NodeJS - NestJS - TypeScript**
   - **NuxtJS - NitroJS - VueJS**
   - **SQL, NoSQL (TypeORM - Prisma)**
+## 🎥 Intro
+[![](https://img.youtube.com/vi/9KRp-MRkQlA/0.jpg)](https://www.youtube.com/watch?v=9KRp-MRkQlA)
 
 ## 🏅 Achievements
 - Dynamic Core Module SQL Relations **“Raise Scalability and Extensibility to above 10x”**.

@@ -9,14 +9,15 @@
   - **NodeJS - NestJS - TypeScript**
   - **NuxtJS - NitroJS - VueJS**
   - **SQL, NoSQL (TypeORM - Prisma)**
-## 🎥 Intro
-[![](https://img.youtube.com/vi/9KRp-MRkQlA/0.jpg)](https://www.youtube.com/watch?v=9KRp-MRkQlA)
-
+  - 
 ## 🏅 Achievements
 - Dynamic Core Module SQL Relations **“Raise Scalability and Extensibility to above 10x”**.
 - Responsible for Company Apps Support Coverage during **Techne Summit**.
 - Scalable Authorization Module **“Optimize Database Queries From O(n)to O(1)”**.
 - **Handle Large Dashboard Data Reports and Excel Sheet Import/Export**.
+
+## 🎥 Intro
+[![](https://img.youtube.com/vi/9KRp-MRkQlA/0.jpg)](https://www.youtube.com/watch?v=9KRp-MRkQlA)
 
 ## ⚙️ Samples
 

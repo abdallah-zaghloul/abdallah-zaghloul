@@ -9,7 +9,6 @@
   - **NodeJS - NestJS - TypeScript**
   - **NuxtJS - NitroJS - VueJS**
   - **SQL, NoSQL (TypeORM - Prisma)**
-  - 
 ## 🏅 Achievements
 - Dynamic Core Module SQL Relations **“Raise Scalability and Extensibility to above 10x”**.
 - Responsible for Company Apps Support Coverage during **Techne Summit**.

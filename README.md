@@ -10,7 +10,7 @@
   - **NuxtJS - NitroJS - VueJS**
   - **SQL, NoSQL (TypeORM - Prisma)**
 ## 🏅 Achievements
-- Dynamic Core Module SQL Relations **“Raise Scalability and Extensibility to above 10x”**.
+- Computed SQL Relations **“Raise Scalability and Extensibility to above 10x”**.
 - Responsible for Company Apps Support Coverage during **Techne Summit**.
 - Scalable Authorization Module **“Optimize Database Queries From O(n)to O(1)”**.
 - **Handle Large Dashboard Data Reports and Excel Sheet Import/Export**.

@@ -16,7 +16,7 @@
 - **Handle Large Dashboard Data Reports and Excel Sheet Import/Export**.
 
 ## 🎥 Intro
-[![](https://img.youtube.com/vi/9KRp-MRkQlA/0.jpg)]([https://www.youtube.com/watch?v=9KRp-MRkQlA](https://www.youtube.com/watch?v=lWbMJOvBW_c))
+[![](https://img.youtube.com/vi/9KRp-MRkQlA/0.jpg)](https://www.youtube.com/watch?v=lWbMJOvBW_c)
 
 ## ⚙️ Samples
 

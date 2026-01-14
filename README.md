@@ -1,6 +1,6 @@
 ## 📜 Summary
 
-- **+5 Years** Experience Level across Software Development.
+- **+6 Years** Experience Level across Software Development.
 - Intensive Knowledge of Back-End and Responsive Web Design Technologies.
 - Backend Initializer for **(Fintech - Ride Hailing - Ecommerce - Multi SMS Providers)** Apps.
 - Leads a Small Sized Developer’s Team, Participates in **Business, and Technical Hiring Interviews**.
